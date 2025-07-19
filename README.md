@@ -12,8 +12,6 @@
 
 - Java
 - MySQL
-- JDBC
-- spring tool suite eclipse
 - Git & GitHub
 
 # Lessons Learned
