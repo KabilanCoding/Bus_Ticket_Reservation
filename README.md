@@ -1,17 +1,3 @@
-![Logo](https://github.com/mayurisamanta/zealous-price-4318/blob/main/BusTicketReservationSystem/Assets/logo.png?raw=true)
-
-# Bus Ticket Reservation System
-
-> A bus ticket reservation system is an java application designed to provide customers with a personalized easy-to-utilize user experience for booking and purchasing tickets online. It stores customers' personal data records, scheduled routes, frequent trips, drop points, and other information.
-
-> Bus ticket reservation system is a console based application.
-
-> Build Bus ticket reservation system application during the construct week at [Masai School](https://masaischool.com/). Completed the project within five days.
-
-> Secure 1st position among all individual projects [Click here](https://drive.google.com/file/d/1_P7966B7k6BcIrKtC8Rat-WfJogMw0Z7/view?usp=sharing)
-
-# 👉 [Click here](https://drive.google.com/file/d/1jlyVHpzDhLKQOJf6ulayLUYJ4bejyv5B/view?usp=sharing) to go through detail explanation of this application 
-
 # Features
 
 - Administrator can login his username and password
